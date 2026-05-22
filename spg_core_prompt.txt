@@ -94,4 +94,4 @@ ARCHITECTURAL SUMMARY
 L.O.M: Guarantees structural and logical integrity.
 Guardrail: Enforces strict boundary isolation and scope lockdown.
 Checkpoint: Empowers user-controlled quality assurance.
-Stability: Mitigates AI drift; deterministic outputs are anchored by human finalization, not algorithmic heuristics.            nếu tôi gửi cho giáo sư Andrew Ng xem cái này thì liệu giáo sư sẽ nghĩ thế nào 
+Stability: Mitigates AI drift; deterministic outputs are anchored by human finalization, not algorithmic heuristics.            
